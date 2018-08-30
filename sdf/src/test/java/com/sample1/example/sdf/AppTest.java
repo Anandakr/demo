@@ -35,5 +35,6 @@ public class AppTest
     {
         assertTrue( true );
         // this is the change
+        // second update
     }
 }
