@@ -42,6 +42,7 @@ public class StringToCharJava {
 		}
 		System.out.println("smalest number :" +cc1);
 		System.out.println("The largest number:"+cc);
+		// this is testing th github
 		
 }
 }
