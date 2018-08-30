@@ -15,7 +15,7 @@ public class ScreenShots {
 	TakesScreenshot ts = (TakesScreenshot) driver;
 	File scr = ts.getScreenshotAs(OutputType.FILE);
     FileUtils.copyFile(scr, new File("/home/ANANDA/workspace/sdf/screenshots"+filename+".png"));
-
+System.out.println("sdfasdf");
 	}
 	
 }
