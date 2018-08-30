@@ -12,11 +12,11 @@ public class StringToCharJava {
 
 		// string to char array
 
-		string chars = str.toString();
-		System.out.println(chars.length);
+		String chars = str.toString();
+		System.out.println(chars.length());
 
 		// char at specific index
-		for(int i=0;i<chars.length;i++){
+		for(int i=0;i<chars.length();i++){
 
 		char c = str.charAt(i);
 //		System.out.print(c);
